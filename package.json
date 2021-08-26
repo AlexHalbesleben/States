@@ -1,0 +1,13 @@
+{
+  "name": "States",
+  "version": "1.0.0",
+  "description": "My attempt at a reactive state management system in TypeScript",
+  "main": "testing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node testing.js"
+  },
+  "keywords": ["reactive", "reactivity", "state", "state management", "TypeScript"],
+  "author": "Alex Halbesleben",
+  "license": "(MIT OR Apache-2.0)"
+}
